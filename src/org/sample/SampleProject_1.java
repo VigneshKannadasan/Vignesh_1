@@ -8,5 +8,9 @@ public class SampleProject_1 {
 		SampleProject_1 sp=new SampleProject_1();
 		sp.samplePjt();
 	}
+	
+	public void launchBrowser() {
+		System.out.println("Added method for launch browser");
+	}
 
 }
